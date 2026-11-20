@@ -14,6 +14,11 @@ We make one thing: [handmade wool felt sauna hats](https://diveluxsaunahat.com).
 | [Home Assistant: Sauna is ready](https://github.com/divelux/home-assistant-sauna-ready) | Blueprint for a ready notification |
 | [Awesome Sauna](https://github.com/divelux/awesome-sauna) | Curated list of open sauna projects and data |
 | [Sauna laser files](https://github.com/divelux/sauna-laser-files) | Door sign and plywood hat stand, SVG and DXF |
+| [Sauna Traditions Explorer](https://github.com/divelux/sauna-traditions-explorer) | Filter and compare 28 traditions, plus a static JSON API. [Try it](https://divelux.github.io/sauna-traditions-explorer/) |
+| [Which sauna tradition suits you?](https://github.com/divelux/sauna-tradition-quiz) | A nine-question game. [Play](https://divelux.github.io/sauna-tradition-quiz/) |
+| [Löyly Calculator](https://github.com/divelux/sauna-humidity-calculator) · [Materials](https://github.com/divelux/sauna-materials-calculator) · [Heat-up time](https://github.com/divelux/sauna-heatup-estimator) | More calculators for the hot room |
+| [Sauna Woods](https://github.com/divelux/sauna-woods) · [UNESCO bathing heritage](https://github.com/divelux/unesco-bathing-heritage) | Open datasets |
+| [sauna-planner (Python)](https://github.com/divelux/sauna-planner-py) · [MCP server](https://github.com/divelux/sauna-mcp-server) · [Agent Skill](https://github.com/divelux/sauna-skill) | For developers and AI assistants |
 | [Sauna Traditions of the World](https://github.com/divelux/sauna-traditions-dataset) | Open reference dataset of 28 sauna and bathing traditions |
 | [The Sauna Hat Guide](https://github.com/divelux/sauna-hat-guide) | Free 12-page illustrated PDF and slides |
 | [Sauna & Banya Icon Set](https://github.com/divelux/sauna-icons) | 36 line icons in SVG |
