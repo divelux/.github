@@ -5,6 +5,15 @@ We make one thing: [handmade wool felt sauna hats](https://diveluxsaunahat.com).
 | Project | What it is |
 |---|---|
 | [Sauna Session Planner](https://github.com/divelux/sauna-session-planner) | Plan rounds, cool-downs and water for any sauna, with a round timer. [Try it](https://divelux.github.io/sauna-session-planner/) |
+| [Sauna Heater Size Calculator](https://github.com/divelux/sauna-heater-calculator) | kW range for your hot room by the makers' published rules. [Try it](https://divelux.github.io/sauna-heater-calculator/) |
+| [Sauna Cost Calculator](https://github.com/divelux/sauna-cost-calculator) | What a session costs in electricity or firewood. [Try it](https://divelux.github.io/sauna-cost-calculator/) |
+| [Cold Plunge Timer](https://github.com/divelux/cold-plunge-timer) | A phone-friendly timer. [Try it](https://divelux.github.io/cold-plunge-timer/) |
+| [`<sauna-timer>`](https://github.com/divelux/sauna-timer-element) | Web component that times rounds and breaks |
+| [sauna-planner-core](https://github.com/divelux/sauna-planner-core) | The planner logic as a typed package |
+| [Sauna Glossary](https://github.com/divelux/sauna-glossary) | 145 sauna terms in 25 languages |
+| [Home Assistant: Sauna is ready](https://github.com/divelux/home-assistant-sauna-ready) | Blueprint for a ready notification |
+| [Awesome Sauna](https://github.com/divelux/awesome-sauna) | Curated list of open sauna projects and data |
+| [Sauna laser files](https://github.com/divelux/sauna-laser-files) | Door sign and plywood hat stand, SVG and DXF |
 | [Sauna Traditions of the World](https://github.com/divelux/sauna-traditions-dataset) | Open reference dataset of 28 sauna and bathing traditions |
 | [The Sauna Hat Guide](https://github.com/divelux/sauna-hat-guide) | Free 12-page illustrated PDF and slides |
 | [Sauna & Banya Icon Set](https://github.com/divelux/sauna-icons) | 36 line icons in SVG |
