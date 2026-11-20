@@ -23,6 +23,7 @@ We make one thing: [handmade wool felt sauna hats](https://diveluxsaunahat.com).
 | [Minecraft sauna hat skin](https://github.com/divelux/minecraft-sauna-hat-skin) | For fun |
 | [Sauna hat 3D prints](https://github.com/divelux/sauna-hat-3d-prints) | Drying stand, hat hooks and a ladle hook |
 | [Sauna printables](https://github.com/divelux/sauna-printables) | Posters, care card, guest book, gift certificate, word games |
+| [Sauna spreadsheets](https://github.com/divelux/sauna-templates) | Build budget, heater sizing sheet, cleaning rota, booking log |
 | [30-Day Sauna & Cold Plunge Tracker](https://github.com/divelux/sauna-tracker) | Spreadsheet, printable and Notion template |
 
 All of it is free to use and share. More at [diveluxsaunahat.com/pages/sauna-tools](https://diveluxsaunahat.com/pages/sauna-tools).
