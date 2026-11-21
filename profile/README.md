@@ -31,7 +31,7 @@ We make one thing: [handmade wool felt sauna hats](https://diveluxsaunahat.com).
 | [Sauna illustrations](https://github.com/divelux/sauna-illustrations) · [patterns](https://github.com/divelux/sauna-patterns) · [stickers](https://github.com/divelux/sauna-stickers) · [animations](https://github.com/divelux/sauna-lottie) · [wallpapers](https://github.com/divelux/sauna-wallpapers) | Free vector graphics, CC BY 4.0 |
 | [Filled icons](https://github.com/divelux/sauna-icons-filled) · [icon font](https://github.com/divelux/sauna-icon-font) | More ways to use the icon set |
 | [Sauna timer videos](https://github.com/divelux/sauna-timer-videos) | 10, 15 and 20 minute round timers |
-| [Minecraft sauna hat skin](https://github.com/divelux/minecraft-sauna-hat-skin) | For fun |
+| [Minecraft sauna hat skin](https://github.com/divelux/minecraft-sauna-hat-skin) · [Lakeside Sauna build](https://github.com/divelux/minecraft-lakeside-sauna) · [Good Steam card game](https://github.com/divelux/sauna-printables/tree/main/sauna-card-game) | For fun |
 | [Sauna hat 3D prints](https://github.com/divelux/sauna-hat-3d-prints) | Drying stand, hat hooks and a ladle hook |
 | [Sauna printables](https://github.com/divelux/sauna-printables) | Posters, care card, guest book, gift certificate, word games |
 | [Sauna spreadsheets](https://github.com/divelux/sauna-templates) | Build budget, heater sizing sheet, cleaning rota, booking log |
